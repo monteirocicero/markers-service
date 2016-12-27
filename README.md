@@ -1,2 +1,2 @@
 # markers-service
-Spring Cloud Application
+Spring Cloud Application running in Cloud Foundry
